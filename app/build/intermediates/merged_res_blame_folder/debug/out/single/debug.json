@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "C:\\Users\\naman\\BusBookingApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\naman\\BusBookingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\naman\\BusBookingApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\naman\\BusBookingApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\naman\\BusBookingApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_roundedbutton.xml.flat",
+        "source": "C:\\Users\\naman\\BusBookingApp\\app\\src\\main\\res\\drawable\\roundedbutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\naman\\BusBookingApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_rounded_button_inverted.xml.flat",
+        "source": "C:\\Users\\naman\\BusBookingApp\\app\\src\\main\\res\\drawable\\rounded_button_inverted.xml"
+    },
+    {
+        "merged": "C:\\Users\\naman\\BusBookingApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_half_rounded_rectangle.xml.flat",
+        "source": "C:\\Users\\naman\\BusBookingApp\\app\\src\\main\\res\\drawable\\half_rounded_rectangle.xml"
+    },
+    {
+        "merged": "C:\\Users\\naman\\BusBookingApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\naman\\BusBookingApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\naman\\BusBookingApp\\app\\build\\intermediates\\merged_res\\debug\\anim_slide_up_and_deaccelerate.xml.flat",
+        "source": "C:\\Users\\naman\\BusBookingApp\\app\\src\\main\\res\\anim\\slide_up_and_deaccelerate.xml"
+    },
+    {
+        "merged": "C:\\Users\\naman\\BusBookingApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\naman\\BusBookingApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\naman\\BusBookingApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\naman\\BusBookingApp\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\naman\\BusBookingApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_splash_page.xml.flat",
+        "source": "C:\\Users\\naman\\BusBookingApp\\app\\src\\main\\res\\layout\\activity_splash_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\naman\\BusBookingApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_plus.png.flat",
+        "source": "C:\\Users\\naman\\BusBookingApp\\app\\src\\main\\res\\drawable\\plus.png"
+    },
+    {
+        "merged": "C:\\Users\\naman\\BusBookingApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\naman\\BusBookingApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\naman\\BusBookingApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\naman\\BusBookingApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\naman\\BusBookingApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_card_bg.png.flat",
+        "source": "C:\\Users\\naman\\BusBookingApp\\app\\src\\main\\res\\drawable\\card_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\naman\\BusBookingApp\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_admin_main.xml.flat",
+        "source": "C:\\Users\\naman\\BusBookingApp\\app\\src\\main\\res\\layout\\fragment_admin_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\naman\\BusBookingApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_map.png.flat",
+        "source": "C:\\Users\\naman\\BusBookingApp\\app\\src\\main\\res\\drawable\\map.png"
+    },
+    {
+        "merged": "C:\\Users\\naman\\BusBookingApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\naman\\BusBookingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\naman\\BusBookingApp\\app\\build\\intermediates\\merged_res\\debug\\layout_admin_activity.xml.flat",
+        "source": "C:\\Users\\naman\\BusBookingApp\\app\\src\\main\\res\\layout\\admin_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\naman\\BusBookingApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\naman\\BusBookingApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\naman\\BusBookingApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_startingpagebg.png.flat",
+        "source": "C:\\Users\\naman\\BusBookingApp\\app\\src\\main\\res\\drawable-xxhdpi\\startingpagebg.png"
+    },
+    {
+        "merged": "C:\\Users\\naman\\BusBookingApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_baseline_account_circle_white_18dp.png.flat",
+        "source": "C:\\Users\\naman\\BusBookingApp\\app\\src\\main\\res\\drawable\\baseline_account_circle_white_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\naman\\BusBookingApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\naman\\BusBookingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\naman\\BusBookingApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\naman\\BusBookingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\naman\\BusBookingApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\naman\\BusBookingApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\naman\\BusBookingApp\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_login.xml.flat",
+        "source": "C:\\Users\\naman\\BusBookingApp\\app\\src\\main\\res\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\naman\\BusBookingApp\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_booking.xml.flat",
+        "source": "C:\\Users\\naman\\BusBookingApp\\app\\src\\main\\res\\layout\\layout_booking.xml"
+    },
+    {
+        "merged": "C:\\Users\\naman\\BusBookingApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\naman\\BusBookingApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\naman\\BusBookingApp\\app\\build\\intermediates\\merged_res\\debug\\anim_slide_right.xml.flat",
+        "source": "C:\\Users\\naman\\BusBookingApp\\app\\src\\main\\res\\anim\\slide_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\naman\\BusBookingApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\naman\\BusBookingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\naman\\BusBookingApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_plus.png.flat",
+        "source": "C:\\Users\\naman\\BusBookingApp\\app\\src\\main\\res\\drawable-xxhdpi\\plus.png"
+    },
+    {
+        "merged": "C:\\Users\\naman\\BusBookingApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\naman\\BusBookingApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\naman\\BusBookingApp\\app\\build\\intermediates\\merged_res\\debug\\menu_main_menu.xml.flat",
+        "source": "C:\\Users\\naman\\BusBookingApp\\app\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\naman\\BusBookingApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\naman\\BusBookingApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\naman\\BusBookingApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\naman\\BusBookingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\naman\\BusBookingApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\naman\\BusBookingApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\naman\\BusBookingApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\naman\\BusBookingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\naman\\BusBookingApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\naman\\BusBookingApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\naman\\BusBookingApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\naman\\BusBookingApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\naman\\BusBookingApp\\app\\build\\intermediates\\merged_res\\debug\\anim_slidedown_and_accelerate.xml.flat",
+        "source": "C:\\Users\\naman\\BusBookingApp\\app\\src\\main\\res\\anim\\slidedown_and_accelerate.xml"
+    },
+    {
+        "merged": "C:\\Users\\naman\\BusBookingApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_startpagelogo.png.flat",
+        "source": "C:\\Users\\naman\\BusBookingApp\\app\\src\\main\\res\\drawable-xxhdpi\\startpagelogo.png"
+    },
+    {
+        "merged": "C:\\Users\\naman\\BusBookingApp\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_splash_buttons.xml.flat",
+        "source": "C:\\Users\\naman\\BusBookingApp\\app\\src\\main\\res\\layout\\fragment_splash_buttons.xml"
+    },
+    {
+        "merged": "C:\\Users\\naman\\BusBookingApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_gradient_splash_bg.xml.flat",
+        "source": "C:\\Users\\naman\\BusBookingApp\\app\\src\\main\\res\\drawable\\gradient_splash_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\naman\\BusBookingApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\naman\\BusBookingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\naman\\BusBookingApp\\app\\build\\intermediates\\merged_res\\debug\\layout_listitem_layout.xml.flat",
+        "source": "C:\\Users\\naman\\BusBookingApp\\app\\src\\main\\res\\layout\\listitem_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\naman\\BusBookingApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_circlebutton.xml.flat",
+        "source": "C:\\Users\\naman\\BusBookingApp\\app\\src\\main\\res\\drawable\\circlebutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\naman\\BusBookingApp\\app\\build\\intermediates\\merged_res\\debug\\layout_booking_card.xml.flat",
+        "source": "C:\\Users\\naman\\BusBookingApp\\app\\src\\main\\res\\layout\\booking_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\naman\\BusBookingApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_line_grey.png.flat",
+        "source": "C:\\Users\\naman\\BusBookingApp\\app\\src\\main\\res\\drawable\\line_grey.png"
+    },
+    {
+        "merged": "C:\\Users\\naman\\BusBookingApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_addbookingbutton.png.flat",
+        "source": "C:\\Users\\naman\\BusBookingApp\\app\\src\\main\\res\\drawable-v24\\addbookingbutton.png"
+    }
+]
